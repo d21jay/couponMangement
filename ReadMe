@@ -1,0 +1,8 @@
+#requirements: make && support for c++17
+#Steps:
+In order to run the application, rum the following command
+in this specific directory location(where this ReadMe file resides):
+  make
+  ./app
+
+#author @Jay
